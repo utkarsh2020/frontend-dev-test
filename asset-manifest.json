@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.bcda77b4.chunk.css",
-    "main.js": "/static/js/main.ac722c28.chunk.js",
-    "main.js.map": "/static/js/main.ac722c28.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.7df88e85.js",
-    "runtime-main.js.map": "/static/js/runtime-main.7df88e85.js.map",
-    "static/css/2.fe359a49.chunk.css": "/static/css/2.fe359a49.chunk.css",
-    "static/js/2.a9773603.chunk.js": "/static/js/2.a9773603.chunk.js",
-    "static/js/2.a9773603.chunk.js.map": "/static/js/2.a9773603.chunk.js.map",
-    "static/js/3.38f3e165.chunk.js": "/static/js/3.38f3e165.chunk.js",
-    "static/js/3.38f3e165.chunk.js.map": "/static/js/3.38f3e165.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.fe359a49.chunk.css.map": "/static/css/2.fe359a49.chunk.css.map",
-    "static/css/main.bcda77b4.chunk.css.map": "/static/css/main.bcda77b4.chunk.css.map",
-    "static/js/2.a9773603.chunk.js.LICENSE.txt": "/static/js/2.a9773603.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/static/media/SEGA.47b4bfa9.woff"
+    "main.css": "/frontend-dev-test/static/css/main.69f13c88.chunk.css",
+    "main.js": "/frontend-dev-test/static/js/main.ac722c28.chunk.js",
+    "main.js.map": "/frontend-dev-test/static/js/main.ac722c28.chunk.js.map",
+    "runtime-main.js": "/frontend-dev-test/static/js/runtime-main.a214d0e2.js",
+    "runtime-main.js.map": "/frontend-dev-test/static/js/runtime-main.a214d0e2.js.map",
+    "static/css/2.fe359a49.chunk.css": "/frontend-dev-test/static/css/2.fe359a49.chunk.css",
+    "static/js/2.a9773603.chunk.js": "/frontend-dev-test/static/js/2.a9773603.chunk.js",
+    "static/js/2.a9773603.chunk.js.map": "/frontend-dev-test/static/js/2.a9773603.chunk.js.map",
+    "static/js/3.38f3e165.chunk.js": "/frontend-dev-test/static/js/3.38f3e165.chunk.js",
+    "static/js/3.38f3e165.chunk.js.map": "/frontend-dev-test/static/js/3.38f3e165.chunk.js.map",
+    "index.html": "/frontend-dev-test/index.html",
+    "static/css/2.fe359a49.chunk.css.map": "/frontend-dev-test/static/css/2.fe359a49.chunk.css.map",
+    "static/css/main.69f13c88.chunk.css.map": "/frontend-dev-test/static/css/main.69f13c88.chunk.css.map",
+    "static/js/2.a9773603.chunk.js.LICENSE.txt": "/frontend-dev-test/static/js/2.a9773603.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/frontend-dev-test/static/media/SEGA.47b4bfa9.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.7df88e85.js",
+    "static/js/runtime-main.a214d0e2.js",
     "static/css/2.fe359a49.chunk.css",
     "static/js/2.a9773603.chunk.js",
-    "static/css/main.bcda77b4.chunk.css",
+    "static/css/main.69f13c88.chunk.css",
     "static/js/main.ac722c28.chunk.js"
   ]
 }
